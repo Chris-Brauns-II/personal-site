@@ -10,7 +10,7 @@ Currently, I'm writing Ruby at [Root][root].
 
 In my spare time, I'm also working on [Priority][priority], a 'Vision Management Software'
 
-You can find the source for this site [here][source]
+You can find the source for this site [here][source].
 
 [root]: https://www.joinroot.com
 [priority]: https://www.makepriorities.com
